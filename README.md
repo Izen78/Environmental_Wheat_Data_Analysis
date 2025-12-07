@@ -1,8 +1,9 @@
 # Data Fusion and Machine Learning for Enhanced Variety Trial Analysis
-## Climate Change and Environmental Influences on Wheat Growth
 
-**DATA7903 Project Report can be found in DATA7903/Final Report.docx which goes through entire project and its implementations!**
-DATA7901 Capstone Project which investigates the environmental effects of climate change on wheat growth (Datasets cannot be published)
+**DATA7903 Project Report can be found in the Releases section or "DATA7903/Final Report.docx" which goes through entire project and its implementations!**
+
+## Climate Change and Environmental Influences on Wheat Growth
+DATA7901 Capstone Project which investigates the environmental effects of climate change on wheat growth (Datasets cannot be published for privacy reasons)
 
 # Motivations
 
